@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "TestProject",
+    "name": "To Do!",
     "slug": "TestProject",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Interactive To Do App",
+    "githubUrl": "https://github.com/skamath2000/ToDoApp.git"
   }
 }
